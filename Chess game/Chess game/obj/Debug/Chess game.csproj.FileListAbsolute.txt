@@ -1,0 +1,38 @@
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\Chess game.exe.config
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\Chess game.exe
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\Chess game.pdb
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.Charts.Design.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.Instrumentation.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Layout.xml
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\DevComponents.Instrumentation.xml
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess game.csprojResolveAssemblyReference.cache
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Form_Main.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Properties.Resources.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess game.csproj.GenerateResource.Cache
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess game.exe
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess game.pdb
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Form_Change_Language.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Form_New_game.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\vi\Chess game.resources.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Resources.Lang.langres.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Resources.Lang.langres.vi.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\vi\Chess game.resources.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.About_Box.resources
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\Chess Library.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\Chess Library.pdb
+C:\Lap trinh huong doi tuong\Chess game\Chess game\bin\Debug\vi\Chess Library.resources.dll
+C:\Lap trinh huong doi tuong\Chess game\Chess game\obj\Debug\Chess_game.Form_Options.resources

@@ -1,0 +1,36 @@
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess Library.csprojResolveAssemblyReference.cache
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Uc_ChessCell.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Uc_ChessPiece.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess Library.csproj.GenerateResource.Cache
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Properties.Resources.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\Chess Library.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\Chess Library.pdb
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess Library.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess Library.pdb
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.Charts.Design.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.Instrumentation.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Layout.xml
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\DevComponents.Instrumentation.xml
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Uc_ChessBoard.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Resources.Lang.langres.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Resources.Lang.langres.vi.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\bin\Debug\vi\Chess Library.resources.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\vi\Chess Library.resources.dll
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Form_Message.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Form_Promotion.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Uc_CountDownTimer.resources
+C:\Lap trinh huong doi tuong\Chess Library\Chess Library\obj\Debug\Chess_Library.Uc_ChessPieceEated.resources

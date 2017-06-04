@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btn_Author" xml:space="preserve">
+    <value>Author </value>
+  </data>
+  <data name="btn_Capture" xml:space="preserve">
+    <value>Capture screen</value>
+  </data>
+  <data name="btn_Chessrule" xml:space="preserve">
+    <value>Chess rule </value>
+  </data>
+  <data name="btn_Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="btn_Hint" xml:space="preserve">
+    <value>Hint</value>
+  </data>
+  <data name="btn_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="btn_Loadgame" xml:space="preserve">
+    <value>Load game</value>
+  </data>
+  <data name="btn_Newgame" xml:space="preserve">
+    <value>New game</value>
+  </data>
+  <data name="btn_Redo" xml:space="preserve">
+    <value>Redo</value>
+  </data>
+  <data name="btn_Savegame" xml:space="preserve">
+    <value>Save game</value>
+  </data>
+  <data name="btn_Savemoved" xml:space="preserve">
+    <value>Save moved </value>
+  </data>
+  <data name="btn_Undo" xml:space="preserve">
+    <value>Undo</value>
+  </data>
+  <data name="buttonItem1" xml:space="preserve">
+    <value>Interface</value>
+  </data>
+  <data name="Form_Main" xml:space="preserve">
+    <value>Chess - Nguyen Trong Hoang Viet</value>
+  </data>
+  <data name="ribbonTabItem_Auxiliaryfunction" xml:space="preserve">
+    <value>Tools</value>
+  </data>
+  <data name="ribbonTabItem_Help" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="ribbonTabItem_Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="btn_Start" xml:space="preserve">
+    <value>Start </value>
+  </data>
+  <data name="combobox_GameMode_itemvsCom" xml:space="preserve">
+    <value>Player vs Computer</value>
+  </data>
+  <data name="combobox_GameMode_itemvsPlayer" xml:space="preserve">
+    <value>Player vs Player</value>
+  </data>
+  <data name="combobox_Game_Mode" xml:space="preserve">
+    <value>Player vs Computer</value>
+  </data>
+  <data name="Form_Change_Language" xml:space="preserve">
+    <value>Choose Language</value>
+  </data>
+  <data name="Form_New_game" xml:space="preserve">
+    <value>New Game</value>
+  </data>
+  <data name="lbl_ChooseSide" xml:space="preserve">
+    <value>Choose Side : </value>
+  </data>
+  <data name="lbl_ExtraTime" xml:space="preserve">
+    <value>Extra Time : </value>
+  </data>
+  <data name="lbl_Form_Newgame" xml:space="preserve">
+    <value>Game Options </value>
+  </data>
+  <data name="lbl_GameMode" xml:space="preserve">
+    <value>Choose Mode :</value>
+  </data>
+  <data name="lbl_Level" xml:space="preserve">
+    <value>Level :</value>
+  </data>
+  <data name="lbl_Minute" xml:space="preserve">
+    <value>Minutes </value>
+  </data>
+  <data name="lbl_Second" xml:space="preserve">
+    <value>Seconds</value>
+  </data>
+  <data name="lbl_TimeMax" xml:space="preserve">
+    <value>Time Max : </value>
+  </data>
+  <data name="radiobtn_Black" xml:space="preserve">
+    <value>Black</value>
+  </data>
+  <data name="radiobtn_Easy" xml:space="preserve">
+    <value>Easy</value>
+  </data>
+  <data name="radiobtn_Hard" xml:space="preserve">
+    <value>Hard </value>
+  </data>
+  <data name="radiobtn_Medium" xml:space="preserve">
+    <value>Medium</value>
+  </data>
+  <data name="radiobtn_White" xml:space="preserve">
+    <value>White ( Play first )</value>
+  </data>
+  <data name="About_Box" xml:space="preserve">
+    <value>Chess</value>
+  </data>
+  <data name="labelCompanyName" xml:space="preserve">
+    <value>Ha Noi University of Science and Technology </value>
+  </data>
+  <data name="labelCopyright" xml:space="preserve">
+    <value>Developed by Nguyen Trong Hoang Viet </value>
+  </data>
+  <data name="labelProductName" xml:space="preserve">
+    <value>Chess </value>
+  </data>
+  <data name="labelVersion" xml:space="preserve">
+    <value>Version 1.0</value>
+  </data>
+  <data name="textBoxDescription" xml:space="preserve">
+    <value>Contact of Author : 
+
+Email : vieritolove@gmail.com
+Facebook : facebook.com/vieritolove</value>
+  </data>
+  <data name="btn_Options" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="btn_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="btn_Save" xml:space="preserve">
+    <value>Save </value>
+  </data>
+  <data name="ckb_Sound" xml:space="preserve">
+    <value>Sound </value>
+  </data>
+  <data name="lbl_BoardStyle" xml:space="preserve">
+    <value>Style of ChessBoard</value>
+  </data>
+  <data name="lbl_CellSize" xml:space="preserve">
+    <value>Size of Cell : </value>
+  </data>
+  <data name="lbl_ChessPieceSize" xml:space="preserve">
+    <value>Size of Chessman :  </value>
+  </data>
+  <data name="lbl_ChessPieceStyle" xml:space="preserve">
+    <value>Style of ChessMan</value>
+  </data>
+  <data name="lbl_Form_Option" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="Form_Options" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="grp_Style" xml:space="preserve">
+    <value>Board</value>
+  </data>
+</root>

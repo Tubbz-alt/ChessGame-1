@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<config>
+  <CELLSIZE>69</CELLSIZE>
+  <PIECESIZE>69</PIECESIZE>
+  <BOARDSTYLE>1</BOARDSTYLE>
+  <PIECESTYLE>1</PIECESTYLE>
+  <PLAYSOUND>True</PLAYSOUND>
+</config>
